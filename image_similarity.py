@@ -1,4 +1,3 @@
-# Image Similarity Search Experiment
 from google.colab import files
 from PIL import Image
 import torch
